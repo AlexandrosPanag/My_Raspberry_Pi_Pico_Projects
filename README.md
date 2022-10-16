@@ -13,7 +13,9 @@ The Raspberry Pi is a very cheap computer that runs Linux, but it also provides 
 
 THIS SOURCE WAS TAKEN FROM AND CAN BE FOUND HERE : https://opensource.com/resources/raspberry-pi#:~:text=Raspberry%20Pi%20is%20the%20name,and%20variations%20released%20since%20then.
 
+![](https://cdn-icons-png.flaticon.com/512/5969/5969184.png)
 
+PICTURE SOURCE: https://cdn-icons-png.flaticon.com/512/5969/5969184.png
 
 Raspberry Pi Pico
 -----------------
@@ -52,3 +54,5 @@ Form factor: 51x21mm
 SOURCE: https://opensource.com/resources/raspberry-pi#:~:text=Raspberry%20Pi%20is%20the%20name,and%20variations%20released%20since%20then.
 
 ![](https://assets.raspberrypi.com/static/74679d6c81ffc5503a20b64feae2ed4f/3564b/pico-rp2040.jpg)
+
+PICTURE SOURCE: https://assets.raspberrypi.com/static/74679d6c81ffc5503a20b64feae2ed4f/3564b/pico-rp2040.jpg
