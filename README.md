@@ -1,6 +1,8 @@
 # My Raspberry Pi Projects
 
 
+COMPILER / IDE USED: https://thonny.org/
+
 
 Raspberry Pi is the name of a series of single-board computers made by the Raspberry Pi Foundation, a UK charity that aims to educate people in computing and create easier access to computing education.
 
