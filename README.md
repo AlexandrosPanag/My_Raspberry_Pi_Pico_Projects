@@ -1,7 +1,6 @@
 # My Raspberry Pi Projects
 
 
-PAGE IN PROGRESS!
 
 Raspberry Pi is the name of a series of single-board computers made by the Raspberry Pi Foundation, a UK charity that aims to educate people in computing and create easier access to computing education.
 
@@ -53,6 +52,6 @@ Form factor: 51x21mm
 
 SOURCE: https://opensource.com/resources/raspberry-pi#:~:text=Raspberry%20Pi%20is%20the%20name,and%20variations%20released%20since%20then.
 
-![](https://assets.raspberrypi.com/static/74679d6c81ffc5503a20b64feae2ed4f/3564b/pico-rp2040.jpg)
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Raspberry_Pi_Projects/main/PICO%20PINS.png)
 
-PICTURE SOURCE: https://assets.raspberrypi.com/static/74679d6c81ffc5503a20b64feae2ed4f/3564b/pico-rp2040.jpg
+PICTURE SOURCE: https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
