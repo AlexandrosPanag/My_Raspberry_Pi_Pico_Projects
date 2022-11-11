@@ -2,6 +2,9 @@ What is MicroPython?
 -------------------
 
 
+COMPILER / IDE USED: https://thonny.org/
+
+
 MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
 
 The MicroPython pyboard is a compact electronic circuit board that runs MicroPython on the bare metal, giving you a low-level Python operating system that can be used to control all kinds of electronic projects.
