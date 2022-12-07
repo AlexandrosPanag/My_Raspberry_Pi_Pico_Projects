@@ -4,6 +4,10 @@
 COMPILER / IDE USED: https://thonny.org/
 
 
+REPOSITORY BUILT-IN PROGRESS!!! PLEASE BE PATIENT -expected full release end of 2024.
+
+
+
 Raspberry Pi is the name of a series of single-board computers made by the Raspberry Pi Foundation, a UK charity that aims to educate people in computing and create easier access to computing education.
 
 The Raspberry Pi launched in 2012, and there have been several iterations and variations released since then. The original Pi had a single-core 700MHz CPU and just 256MB RAM, and the latest model has a quad-core CPU clocking in at over 1.5GHz, and 4GB RAM. The price point for Raspberry Pi has always been under $100 (usually around $35 USD), most notably the Pi Zero, which costs just $5.
