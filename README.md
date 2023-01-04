@@ -4,7 +4,7 @@
 COMPILER / IDE USED: https://thonny.org/
 
 
-REPOSITORY BUILT-IN PROGRESS!!! PLEASE BE PATIENT -expected full release end of 2024.
+-> -> REPOSITORY BUILD IN PROGRESS!!! PLEASE BE PATIENT -expected full release end of 2024. <- <-
 
 
 
@@ -16,11 +16,8 @@ All over the world, people use the Raspberry Pi to learn programming skills, bui
 
 The Raspberry Pi is a very cheap computer that runs Linux, but it also provides a set of GPIO (general purpose input/output) pins, allowing you to control electronic components for physical computing and explore the Internet of Things (IoT).
 
-THIS SOURCE WAS TAKEN FROM AND CAN BE FOUND HERE : https://opensource.com/resources/raspberry-pi#:~:text=Raspberry%20Pi%20is%20the%20name,and%20variations%20released%20since%20then.
+This article was taken from & can be found here : https://opensource.com/resources/raspberry-pi#:~:text=Raspberry%20Pi%20is%20the%20name,and%20variations%20released%20since%20then.
 
-![](https://cdn-icons-png.flaticon.com/512/5969/5969184.png)
-
-PICTURE SOURCE: https://cdn-icons-png.flaticon.com/512/5969/5969184.png
 
 Raspberry Pi Pico
 -----------------
