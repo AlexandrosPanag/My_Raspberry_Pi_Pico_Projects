@@ -1,3 +1,5 @@
+# This code was created by Alexandros Panagiotakopoulos
+
 from machine import Pin, Timer
 led = Pin(2, Pin.OUT)
 timer = Timer()
