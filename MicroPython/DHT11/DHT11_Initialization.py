@@ -16,8 +16,8 @@ while True:
     pin = Pin(28, Pin.OUT, Pin.PULL_DOWN) #declare the Pin 28 (data pin as an output)
     sensor = DHT11(pin) #intialize the sensor pin
     t  = (sensor.temperature) # store the temperature value in
-    #h = (sensor.humidity) optional code to store the humidity in a value 
-    f = h*9/5+32 # From Celsius Fahrenheit Conversion Formula
+    h = (sensor.humidity) optional code to store the humidity in a value 
+    f = t*9/5+32 # From Celsius Fahrenheit Conversion Formula
     print("Temperature in Celsius: {}".format(sensor.temperature)) #print the temperature value
     print("Temperature in Fahrenheit: {}".format(f)) #print the fahreneheit value
     print("Humidity: {} \n".format(sensor.humidity)) #print the humidity value
