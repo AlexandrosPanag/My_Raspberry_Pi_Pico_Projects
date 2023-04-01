@@ -10,3 +10,4 @@ while True:
     print("You have rolled the dice:",cnt,"times")
     print("The result was:",dice1)
     time.sleep(10)
+    cnt+1
