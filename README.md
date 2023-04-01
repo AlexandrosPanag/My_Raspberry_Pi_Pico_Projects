@@ -1,6 +1,11 @@
 # My Raspberry Pi Projects
 
 
+<img src="https://img.shields.io/bower/l/mi">
+
+
+Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
 
 All of the codes were compiled on the Thonny IDE.
 
