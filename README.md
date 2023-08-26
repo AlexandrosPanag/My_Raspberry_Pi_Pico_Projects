@@ -24,7 +24,7 @@ All of the codes were compiled on the Thonny IDE.
 COMPILER / IDE USED: https://thonny.org/
 
 
--> -> REPOSITORY BUILD IN PROGRESS!!! PLEASE BE PATIENT -expected full release end of 2024. <- <-
+-> -> REPOSITORY BUILD IN PROGRESS!!! PLEASE BE PATIENT -expected full release end of 2025. <- <-
 
 
 
@@ -73,8 +73,8 @@ Accelerated floating point libraries on-chip
 
 Form factor: 51x21mm 
 
-SOURCE: https://opensource.com/resources/raspberry-pi#:~:text=Raspberry%20Pi%20is%20the%20name,and%20variations%20released%20since%20then.
+This citation was taken from & can be found here: https://opensource.com/resources/raspberry-pi#:~:text=Raspberry%20Pi%20is%20the%20name,and%20variations%20released%20since%20then.
 
-![](https://raw.githubusercontent.com/AlexandrosPanag/My_Raspberry_Pi_Projects/main/PICO%20PINS.png)
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects/main/PICO%20PINS.png)
 
-PICTURE SOURCE: https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+Picture image source was taken from & can be found here: https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
